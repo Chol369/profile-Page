@@ -4,7 +4,7 @@ A simple, animated link tree page built with HTML and CSS.
 
 ## Preview
 
-![Link Tree Preview](images/screenshot.png)
+![Link Tree Preview](screenshot.png)
 
 ## Features
 
